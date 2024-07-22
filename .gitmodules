@@ -1,3 +1,9 @@
 [submodule "exams"]
 	path = exams
 	url = git@github.com:clouder-zhai/test-repo
+[submodule "rustlings"]
+	path = rustlings
+	url = git@github.com:clouder-zhai/test-repo
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:clouder-zhai/test-repo
